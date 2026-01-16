@@ -6,3 +6,4 @@ Includes a built-in reconciliation engine to verify Check Amount = Σ(Claim Paym
 All Amount Fields are right-justified, zero-filled for the first 10 positions, and space-filled for the remaining positions per CMS guidelines
 
 ReadMe Note: This module includes a Fault-Tolerant Parsing Layer. In real-world RCM, EOBs are often poorly scanned or contain non-standard formatting. This engine uses proactive error handling to isolate malformed records, ensuring the entire batch doesn't fail due to a single unreadable claim
+[835 Parser Segment Table.docx](https://github.com/user-attachments/files/24656444/835.Parser.Segment.Table.docx)
